@@ -1,3 +1,5 @@
 *.idx
 *.dat
 *.geojson
+*.csv
+output/*
